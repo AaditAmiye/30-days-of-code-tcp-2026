@@ -1,2 +1,4 @@
 # 30-days-of-code-tcp-2026
-Name:- Aadit Amiye
+Name :- Aadit Amiye
+Branch :- Electrical
+Roll no. :- 25117001
