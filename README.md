@@ -21,3 +21,10 @@ Roll no. :- 25117001
 
 
 
+## Day 2 – Develop a single HTML page that demonstrates your understanding of tables and basic HTML forms.
+
+---
+
+<img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/5e614daa-7917-4c44-81d5-d6c706148310" />
+
+---
