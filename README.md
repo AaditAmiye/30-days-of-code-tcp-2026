@@ -19,6 +19,5 @@ Roll no. :- 25117001
 
 ---
 
-## Day 1 – Portfolio Website Output
 
 
