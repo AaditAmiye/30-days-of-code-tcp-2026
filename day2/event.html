@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+
+<!-- SECTION 1 -->
+    <h1>Event Table</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Activity</th>
+          <th>Venue</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>10am</td>
+          <td>Photography Workshop</td>
+          <td>Hira Auditorium</td>
+        </tr>
+        <tr>
+          <td>12pm</td>
+          <td>Robotics Workshop</td>
+          <td>D2</td>
+        </tr>
+        <tr>
+          <td>2PM</td>
+          <td>Webdev Workshop</td>
+          <td>Hira Auditorium</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+
+<!-- SECTION -2  -->
+
+
+<h2>Event Registration Form</h2>
+<form action="post" action="data.php">
+    <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" ><br>
+<br>
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age"><br><br>
+
+        <label for="date">Registration Date:</label><br>
+        <input type="date" id="date" name="date"><br><br>
+
+
+        <label>Ticket Type:</label><br>
+        <input type="radio" id="Guest" name="ticket" value="Guest">
+        <label for="Guest">Guest</label>
+
+        <input type="radio" id="Professor" name="ticket" value="Professor">
+        <label for="Professor">Professor</label>
+
+        <input type="radio" id="student" name="ticket" value="Student">
+        <label for="student">Student</label><br><br>
+
+
+        <label>Workshops</label><br>
+
+        <input type="checkbox" id="ai" name="workshop" value="AI Workshop">
+        <label for="ai">Photography Workshop</label>
+
+        <input type="checkbox" id="web" name="workshop" value="Web Development">
+        <label for="web">Robotics Workshop </label>
+
+        <input type="checkbox" id="robotics" name="workshop" value="Robotics">
+        <label for="robotics">Webdev Workshop</label><br><br>
+
+        <label for="comments">Comments:</label><br>
+        <textarea id="comments" name="comments"></textarea><br><br>
+
+        
+        <button type="submit">Submit Registration</button>
+    </form>
+
+</form>
+
+
