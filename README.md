@@ -46,4 +46,13 @@ Roll no. :- 25117001
 
 ---
 
+## Day 4- Build a product landing page that shows you can use Flexbox layouts, responsive design, CSS variables, transitions, and basic animations
+
+
+---
+
+<img width="1900" height="1991" alt="127 0 0 1_3000_day4_landing html_serverWindowId=1a74e4ce-c713-4e24-b1ce-f3db0bb93e47" src="https://github.com/user-attachments/assets/7bd32dc3-8e04-4049-870b-c56f5c791061" />
+
+---
+
 
